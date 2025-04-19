@@ -1,0 +1,8 @@
+{
+  "internalName": "bankorganizer",
+  "displayName": "Bank Organizer",
+  "description": "Organizes your bank by assigning items to tabs based on category",
+  "author": "Ollie",
+  "tags": ["bank", "organize", "tabs"],
+  "version": "1.0.0"
+}
